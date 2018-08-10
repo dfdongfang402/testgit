@@ -3,4 +3,4 @@ Git is free software.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 add dev fast forward merge
-fast forward merge
+--no-ff merge
