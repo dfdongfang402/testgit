@@ -4,3 +4,5 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 add dev fast forward merge
 --no-ff merge
+this for stage
+this for workspace
